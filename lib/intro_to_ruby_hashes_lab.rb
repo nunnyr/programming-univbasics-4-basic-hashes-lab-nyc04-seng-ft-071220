@@ -8,7 +8,7 @@ def my_hash
   {
     name: "Nunny"
   }
-  returns my_hash[name]
+  returns my_hash[:name]
 end
 
 def pioneer
